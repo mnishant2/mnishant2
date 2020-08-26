@@ -91,8 +91,9 @@
 
 
 </details>
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.mnishant2.vercel.app/api/top-langs/?username=mnishant2&layout=compact)](https://github.com/mnishant2/github-readme-stats)
 
 
 [website]: https://mnishant2.github.io
