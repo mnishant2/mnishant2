@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
-[<img align="left" alt="Pytorch" width="26px" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />]
+[<img align="left" alt="Pytorch" width="26px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />]
 [<img align="left" alt="ScikitLearn" width="26px" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-notext.png" />]
 
 [<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
