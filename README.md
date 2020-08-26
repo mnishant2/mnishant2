@@ -25,14 +25,14 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Pytorch" width="26px" src="https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png" />
-<img align="left" alt="ScikitLearn" width="26px" src="https://github.com/scikit-learn/scikit-learn/raw/master/doc/logos/scikit-learn-logo.png" />
+<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="ScikitLearn" width="26px" height="25px" src="https://github.com/scikit-learn/scikit-learn/raw/master/doc/logos/scikit-learn-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="Caffe" width="26px" src="https://caffe2.ai/static/logo.svg" />
 <img align="left" alt="Keras" width="26px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />
-<img align="left" alt="Numpy" width="26px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />
+<img align="left" alt="Numpy" width="26px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
+<img align="left" alt="Pandas" width="26px" height="30px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
