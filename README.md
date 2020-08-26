@@ -59,6 +59,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning in Histopathology](https://towardsdatascience.com/deep-learning-in-histopathology-35c0294d38eb?source=rss-b98f92d08bfc------2)
+- [Deep Learning in Histopathology](https://medium.com/swlh/deep-learning-in-histopathology-c104478c00cd?source=rss-b98f92d08bfc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@mnishant2)
