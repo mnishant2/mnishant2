@@ -1,8 +1,13 @@
-### Hi there, I'm Nishant - aka [mnishant2][website] :raising_hand:
+### Hi there, I'm Nishant - or [mnishant2][website] 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnishant2" alt="mnishant2" /> </p>
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/mnishant2" data-color-scheme="no-preference: light; light: dark; dark: dark;" data-size="large" aria-label="Follow @mnishant2 on GitHub">Follow @mnishant2</a>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 ## About me
 
@@ -47,6 +52,7 @@
 
 <p align="left">
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bash" width="40" height="40" src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" />
 <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 <img align ="left" src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
@@ -55,9 +61,10 @@
 <img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+
 <br />
 <br />
-<br />
+
 
 ---
 
