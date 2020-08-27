@@ -84,14 +84,9 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Nishant's Github Stats" src="https://github-readme-stats.mnishant2.vercel.app/api?username=mnishant2&show_icons=true&hide_border=true&hide=prs&count_private=true&theme=radical&include_all_commits=true" />
+[![Nishant's Github Stats](https://github-readme-stats.mnishant2.vercel.app/api?username=mnishant2&show_icons=true&hide_border=true&hide=prs&count_private=true&theme=radical&include_all_commits=true)](https://github.com/mnishant2/github-readme-stats)
 
 
-</details>
-<br />
 
 [![Top Langs](https://github-readme-stats.mnishant2.vercel.app/api/top-langs/?username=mnishant2&layout=compact)](https://github.com/mnishant2/github-readme-stats)
 
