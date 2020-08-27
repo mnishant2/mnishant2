@@ -72,15 +72,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 ![Nishant's Github Stats](https://github-readme-stats.mnishant2.vercel.app/api?username=mnishant2&show_icons=true&hide_border=true&hide=prs&count_private=true&theme=radical&include_all_commits=true)
 
 
