@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnishant2" alt="mnishant2" /> </p>
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/website?label=Visit%20Website&logoColor=green&style=for-the-badge&up_color=informational&up_message=www&url=https%3A%2F%2Fmnishant2.github.io)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![Twitter Follow](https://img.shields.io/website?label=Visit%20Website&logoColor=green&style=for-the-badge&up_color=informational&up_message=www&url=https%3A%2F%2Fmnishant2.github.io)
 
 ## About me
 
