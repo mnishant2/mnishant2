@@ -5,10 +5,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 <!-- Place this tag where you want the button to render. -->
+<body>
 <a class="github-button" href="https://github.com/mnishant2" data-color-scheme="no-preference: light; light: dark; dark: dark;" data-size="large" aria-label="Follow @mnishant2 on GitHub">Follow @mnishant2</a>
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
+</body>
 ## About me
 
 - 🔭 I’m currently working on **Unsupervised Segmentation in Digital Histopathology Slides**    
