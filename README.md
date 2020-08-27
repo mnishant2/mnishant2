@@ -4,14 +4,6 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<!-- Place this tag where you want the button to render. -->
-<html>
-<body>
-<a class="github-button" href="https://github.com/mnishant2" data-color-scheme="no-preference: light; light: dark; dark: dark;" data-size="large" aria-label="Follow @mnishant2 on GitHub">Follow @mnishant2</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-</body>
-</html>
 
 ## About me
 
@@ -37,12 +29,10 @@
 <img align="left" alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img align="left" alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Tensorflow" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="OpenCV" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="Pytorch" width="40" height="40" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="ScikitLearn" width="40" height="40" src="https://github.com/scikit-learn/scikit-learn/raw/master/doc/logos/scikit-learn-logo.png" />
 <img align="left" alt="Tensorflow" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="OpenCV" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
+<img align="left" alt="ScikitLearn" width="40" height="40" src="https://github.com/scikit-learn/scikit-learn/raw/master/doc/logos/scikit-learn-logo.png" />
 <img align="left" alt="Caffe" width="40" height="40" src="https://caffe2.ai/static/logo.svg" />
 <img align="left" alt="Keras" width="40" height="40" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />
 <img align="left" alt="Numpy" width="40" height="40" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
@@ -87,6 +77,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
