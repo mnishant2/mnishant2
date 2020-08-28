@@ -1,7 +1,7 @@
 ### Hi there, I'm Nishant - or [mnishant2][website] 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnishant2" alt="mnishant2" /> 
 
-[![Website](https://img.shields.io/website?label=Visit%20Website&logoColor=green&style=for-the-badge&up_color=informational&up_message=www&url=https%3A%2F%2Fmnishant2.github.io)](https://mnishant2.github.io)
+[![Website](https://img.shields.io/website?label=Visit%20Website&logoColor=green&style=for-the-badge&up_color=brightgreen&up_message=www&url=https%3A%2F%2Fmnishant2.github.io)](https://mnishant2.github.io)
 
 </p>
 
